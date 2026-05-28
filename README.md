@@ -1,4 +1,3 @@
-<img width="1087" height="442" alt="image" src="https://github.com/user-attachments/assets/c7b5f173-cecf-427c-b8c2-6f2c7c674b8b" /><img width="1087" height="442" alt="image" src="https://github.com/user-attachments/assets/492e77b1-6f0e-410d-ae56-9b1ead32f5ef" /><img width="1099" height="55" alt="image" src="https://github.com/user-attachments/assets/81ff397d-5c01-410c-a525-23cfc1afb61a" /># Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
 # AIM:
